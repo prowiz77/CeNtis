@@ -8,6 +8,14 @@ An allrounder Toolkit, able to download youtube videos and video content from 5 
 
 !        The project is still under construction          !
 
+Supported Sites:
+ + Youtube Video Downloader
+ + Explicit Video Downloader
+   - pornhub
+   - xhamster
+   - xvideos
+   - xnxx
+   - gotanynudes
 
 ## Installation
 
