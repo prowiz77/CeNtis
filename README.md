@@ -28,11 +28,11 @@ Start the program:
 
 ## Screenshots
 menu:
-![App Screenshot]()
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot1.png)
 
 youtube-video-downloader:
-![App Screenshot]()
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot2.png)
 
 explcict-video-downloader:
-![App Screenshot]()
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot3.png)
 
