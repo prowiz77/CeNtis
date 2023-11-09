@@ -21,6 +21,10 @@ Install requirements with pip and apt:
   pip install -r requirements
   pip install yt-dlp ; sudo pip install --upgrade youtube_dl ; sudo apt install ffmpeg ; pip3 install customtkinter
 ```
+Start the program:
+```bash
+  python3 main.py
+```
 
 ## Screenshots
 menu:
