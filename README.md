@@ -4,7 +4,8 @@
 # CeNtis
 An allrounder Toolkit, able to download youtube videos and video content from 5 adult sites, including pornhub, xhamster, xvideos, xnxx and gotanynudes.
 
-! However xhamster takes its time for downloading a video !\n
+! However xhamster takes its time for downloading a video !
+
 !        The project is still under construction          !
 
 
