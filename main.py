@@ -215,8 +215,8 @@ class App(customtkinter.CTk):
                 else:
                     self.main_frame.grid_forget()  # remove main frame
                     self.bg_image_main_label.grid_forget() # remove default background image
-                    self.bg_image_yt_video_downloader_label.grid(row=0, column=0)
-                    self.yt_video_downloader_frame.grid(row=0, column=0, sticky="nsew", padx=100)  # show Youtube Video Downloader frame
+                    self.bg_image_yt_video_downloader_grey_label.grid(row=0, column=0)
+                    self.yt_video_downloader_frame_darkmode.grid(row=0, column=0, sticky="nsew", padx=100)  # show Youtube Video Downloader frame
         elif value_optionmenu == "Explicit Video Downloader":
             self.main_frame.grid_forget()  # remove main frame
             self.bg_image_main_label.grid_forget() # remove default background image
