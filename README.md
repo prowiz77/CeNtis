@@ -29,7 +29,7 @@ Install requirements with pip and apt:
 ```bash
   cd CeNtis
   pip install -r requirements.txt
-  pip install yt-dlp ; sudo pip install --upgrade youtube_dl ; sudo apt install ffmpeg ; pip3 install customtkinter ; pip install customtkinter ; sudo apt install python3-tk ; pip install Pillow 
+  pip install yt-dlp ; sudo pip install --upgrade youtube_dl ; sudo apt install ffmpeg ; pip3 install customtkinter ; pip install customtkinter ; sudo apt install python3-tk ; pip install Pillow ; pip install pydub
 ```
 Start the program:
 ```bash
