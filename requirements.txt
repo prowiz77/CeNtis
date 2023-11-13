@@ -1,5 +1,9 @@
-appdirs==1.4.4
-requests==2.25.1
-bs4==0.0.1
-colorama==0.4.4
-beautifulsoup4==4.9.3
+customtkinter==<5.2.1>
+tkinter==<8.6>
+Pillow==<10.1.0>
+yt-dlp==<2023.10.13>
+beautifulsoup4==<4.12.2>
+requests==<2.31.0>
+appdirs==<1.4.4>
+colorama==<0.4.6>
+pydub==<0.25.1>
