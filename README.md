@@ -17,6 +17,10 @@ An allrounder Toolkit, able to download youtube videos and video content from 5 
    - xvideos
    - xnxx
    - gotanynudes
+ + Conversion and Combination tool
+   - conversion-audio: audio-file -> .mp3-file
+   - conversion-video: video-file -> .mp4-file
+   - combination: combine several audio files into one .mp3 file  
 
 ## Installation
 
