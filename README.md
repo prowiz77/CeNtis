@@ -10,7 +10,7 @@ An allrounder Toolkit, able to download youtube videos and video content from 5 
 
 ## Tools and their supported sites:
  + Youtube Video Downloader
-   - youtube
+   - youtube -> video or audio && supports playlists
  + Explicit Video Downloader
    - pornhub
    - xhamster
