@@ -30,7 +30,7 @@ Install requirements with pip and apt:
   cd CeNtis
   pip install -r requirements.txt && sudo pip install --upgrade youtube_dl && sudo apt install ffmpeg
 ```
-  or
+or
 ```bash
   cd CeNtis
   pip install yt-dlp ; sudo pip install --upgrade youtube_dl ; sudo apt install ffmpeg ; pip3 install customtkinter ; pip 
