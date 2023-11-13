@@ -38,14 +38,14 @@ Start the program:
 
 ## Screenshots
 menu:
-![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot1.png)
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot11.png)
 
 youtube-video-downloader:
-![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot2.png)
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot22.png)
 
 explcict-video-downloader:
-![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot3.png)
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot33.png)
 
 conversion-and-combination-tool:
-![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot4.png)
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot44.png)
 
