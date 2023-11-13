@@ -195,7 +195,7 @@ class App(customtkinter.CTk):
         # create Settings frame
         self.settings_frame = customtkinter.CTkFrame(self, corner_radius=0, fg_color ='#12171e')
         self.settings_frame.grid_columnconfigure(0, weight=1)
-        self.settings_logo = customtkinter.CTkImage(Image.open(current_path + "/images/settings.png"), 
+        self.settings_logo = customtkinter.CTkImage(Image.open(current_path + "/images/5.png"), 
                                                 size=(100, 100))                                              
         self.settings_logo_label = customtkinter.CTkLabel(self.settings_frame, image=self.settings_logo, text="")
         self.settings_logo_label.grid(row=0, column=0, padx=30 , pady=(100, 15))
