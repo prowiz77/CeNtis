@@ -587,7 +587,7 @@ class App(customtkinter.CTk):
                             xnxx(akt_link)
                         
                         progress = ((i + 1) / total_links) * 100
-                        print(f"Fortschritt: {progress:.2f}%", end='\r')
+                        print(f"Progress: {progress:.2f}%", end='\r')
 
                         time.sleep(0.1)
             except FileNotFoundError:
