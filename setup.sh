@@ -33,7 +33,7 @@ else
     echo "Der Ordner 'images' existiert nicht im aktuellen Verzeichnis."
 fi
 
-if [ -d CeNtis.py ]; then
+if [ -f CeNtis.py ]; then
     mv CeNtis.py ~/bin/
 else
     echo "Die Datei CeNtis.py existiert nicht im aktuellen Verzeichnis."
