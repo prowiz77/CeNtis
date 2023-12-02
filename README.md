@@ -43,7 +43,7 @@ or
 ```
 Start the program:
 ```bash
-  python3 main.py
+  python3 CeNtis.py
 ```
 
 ## Screenshots
