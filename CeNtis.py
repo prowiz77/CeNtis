@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import customtkinter
 import tkinter
 from PIL import Image
