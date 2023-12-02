@@ -40,6 +40,12 @@ Start the program:
   CeNtis.py
 ```
 
+## Error Handling
+If Fontconfig errors occure, try:
+```bash
+  sudo fc-cache -f -v
+```
+
 ## Screenshots
 menu:
 ![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot11.png)
