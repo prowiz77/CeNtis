@@ -32,18 +32,12 @@ Install CeNtis with git:
 Install requirements with pip and apt:
 ```bash
   cd CeNtis
-  pip install -r requirements.txt && sudo pip install --upgrade youtube_dl && sudo apt install ffmpeg
-```
-or
-```bash
-  cd CeNtis
-  pip install yt-dlp ; sudo pip install --upgrade youtube_dl ; sudo apt install ffmpeg ; pip3 install customtkinter ; pip 
-  install customtkinter ; sudo apt install python3-tk ; pip install Pillow ; pip install pydub ; pip install colorama ; pip 
-  install beautifulsoup4 ; pip install requests ; pip install appdirs
+  chmod +x setup.sh
+  ./setup.sh
 ```
 Start the program:
 ```bash
-  python3 CeNtis.py
+  CeNtis.py
 ```
 
 ## Screenshots
